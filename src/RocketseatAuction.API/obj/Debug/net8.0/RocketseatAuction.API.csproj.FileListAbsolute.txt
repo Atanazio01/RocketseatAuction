@@ -120,3 +120,4 @@ C:\Workspace\Rocketseat\nlw-expert\RocketseatAuction\src\RocketseatAuction.API\o
 C:\Workspace\Rocketseat\nlw-expert\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8.0\RocketseatAuction.API.pdb
 C:\Workspace\Rocketseat\nlw-expert\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8.0\RocketseatAuction.API.genruntimeconfig.cache
 C:\Workspace\Rocketseat\nlw-expert\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8.0\ref\RocketseatAuction.API.dll
+C:\Workspace\Rocketseat\nlw-expert\RocketseatAuction\src\RocketseatAuction.API\obj\Debug\net8.0\RocketseatAuction.API.sourcelink.json
